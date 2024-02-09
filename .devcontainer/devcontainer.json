@@ -3,7 +3,7 @@
 {
 	"name": "Jupyter",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "quay.io/jupyter/scipy-notebook:2024-01-15"
+	"image": "quay.io/jupyter/datascience-notebook:latest"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
